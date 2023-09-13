@@ -1,4 +1,4 @@
-#👋 Hi, I’m @EduardoPacheco2003
+# 👋 Hi, I’m @EduardoPacheco2003
 - 👀 I’m interested in **Frontend and Backend**
 - 🌱 I’m currently learning = _[JavaScript, React, nodejs, express]_
 - ❔❓ What would you like to learn?
